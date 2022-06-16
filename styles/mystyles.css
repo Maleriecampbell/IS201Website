@@ -1,0 +1,27 @@
+h1{
+    color: beige
+}
+img{
+    width:50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4{
+    font-style: oblique;
+    font-size: 20px;
+    text-align: center;
+    position: static;
+    color:darkgreen;
+}
+
+
+h3{
+    font-style: oblique;
+    color: darkgreen;
+    position:static;
+}
+h2{
+    font-style: inherit;
+    color: darkgreen;
+}
